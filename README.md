@@ -90,10 +90,12 @@ plt.imshow(cropped_image)
 ```
 ## Output:
 ### i)Image Translation
+![WhatsApp Image 2022-04-27 at 8 10 46 PM](https://user-images.githubusercontent.com/75235334/165566488-cc622402-04db-40f5-a738-5b3c661ad9b0.jpeg)
 
 
 ### ii) Image Scaling
 
+![WhatsApp Image 2022-04-27 at 8 10 46 PM (1)](https://user-images.githubusercontent.com/75235334/165566433-22b65036-15a9-4e11-8feb-1e74a0d710ed.jpeg)
 
 ### iii)Image shearing
 ![image](https://user-images.githubusercontent.com/75235334/165563061-b2773031-d6df-4be6-953e-f7261e05b195.png)
@@ -101,12 +103,13 @@ plt.imshow(cropped_image)
 
 
 ### iv)Image Reflection
-
-![image](https://user-images.githubusercontent.com/75235334/165563296-948e4425-7000-495d-8ebe-7948f4e0ccaa.png)
+![WhatsApp Image 2022-04-27 at 8 10 46 PM (2)](https://user-images.githubusercontent.com/75235334/165566336-c302349e-07d3-47fa-88c2-bf8fc502311d.jpeg)
 
 
 ### v)Image Rotation
 
+
+![image](https://user-images.githubusercontent.com/75235334/165563296-948e4425-7000-495d-8ebe-7948f4e0ccaa.png)
 
 
 
