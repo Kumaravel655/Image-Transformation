@@ -96,11 +96,13 @@ plt.imshow(cropped_image)
 
 
 ### iii)Image shearing
+![image](https://user-images.githubusercontent.com/75235334/165563061-b2773031-d6df-4be6-953e-f7261e05b195.png)
 
 
 
 ### iv)Image Reflection
 
+![image](https://user-images.githubusercontent.com/75235334/165563296-948e4425-7000-495d-8ebe-7948f4e0ccaa.png)
 
 
 ### v)Image Rotation
@@ -110,6 +112,7 @@ plt.imshow(cropped_image)
 
 ### vi)Image Cropping
 
+![image](https://user-images.githubusercontent.com/75235334/165562871-6e95ac34-ee91-4489-adee-c1b20c24068c.png)
 
 
 
